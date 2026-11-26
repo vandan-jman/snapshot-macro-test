@@ -1,0 +1,2 @@
+snapshot_name,sequence,action,column_name,new_column_name,source_name,source_table,source_column,snapshot_key_columns,source_key_columns,fill_scope,confirm
+sample_customer_data,1,add,company_name,,sample,customers_10000,company,customer_id,customer_id,all,

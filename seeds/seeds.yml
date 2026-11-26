@@ -1,0 +1,16 @@
+seeds:
+  - name: snapshot_column_changes
+    config: 
+     column_types:
+      snapshot_name: string
+      sequence: int
+      action: string
+      column_name: string
+      new_column_name: string
+      source_name: string
+      source_table: string
+      source_column: string
+      snapshot_key_columns: string
+      source_key_columns: string
+      fill_scope: string
+      confirm: string
