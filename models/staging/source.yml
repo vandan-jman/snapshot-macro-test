@@ -1,0 +1,7 @@
+sources:
+ - name: sample
+   description: sample table 
+   database: workspace
+   schema: default
+   tables:
+    - name: customers_10000
