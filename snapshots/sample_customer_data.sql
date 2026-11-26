@@ -18,6 +18,7 @@ select
     , first_name
     , last_name
     , company           AS company_name
+    , city
     , load_timestamp
 
 from {{ source('sample', 'customers_10000') }}
